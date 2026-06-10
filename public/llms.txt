@@ -1,0 +1,14 @@
+# TooliVerse
+
+> AI-powered workplace productivity suite — automate emails, meeting notes, task planning and research.
+
+## Pages
+- [Dashboard](/): Productivity dashboard with usage metrics and recent activity
+- [Email Generator](/email): Generate professional emails by tone and audience
+- [Meeting Summarizer](/summarizer): Extract decisions, action items, and owners from meeting notes
+- [Task Planner](/planner): Eisenhower-matrix prioritization and daily/weekly scheduling
+- [Research Assistant](/research): AI-generated executive briefs from topics or content
+- [AI Chatbot](/chat): Conversational workplace productivity assistant
+- [Productivity Impact](/impact): How TooliVerse delivers measurable time savings
+- [Responsible AI](/responsible-ai): Principles for safe and ethical AI use
+- [About](/about): Project objective, features, and approach
